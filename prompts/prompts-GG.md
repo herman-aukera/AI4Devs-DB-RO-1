@@ -233,18 +233,18 @@ Crear índices estratégicos para:
 
 ## ✅ Checklist Final de Verificación
 
-| Item | Estado | Descripción |
-|------|--------|-------------|
-| ✅ | **COMPLETADO** | Schema Prisma expandido con todas las entidades ERD |
-| ✅ | **COMPLETADO** | Migración SQL generada y estructurada |
-| ✅ | **COMPLETADO** | Archivo prompts-GG.md creado |
-| ✅ | **COMPLETADO** | ENUMs implementados para integridad de negocio |
-| ✅ | **COMPLETADO** | Índices de optimización aplicados estratégicamente |
-| ✅ | **COMPLETADO** | Relaciones bidireccionales correctas |
-| ✅ | **COMPLETADO** | Compatibilidad con datos existentes (no destructivo) |
-| ✅ | **COMPLETADO** | Rama db-GG creada correctamente |
-| ✅ | **COMPLETADO** | Commit realizado con mensaje descriptivo |
-| ✅ | **COMPLETADO** | Push completado exitosamente |
+| Item | Estado         | Descripción                                          |
+| ---- | -------------- | ---------------------------------------------------- |
+| ✅    | **COMPLETADO** | Schema Prisma expandido con todas las entidades ERD  |
+| ✅    | **COMPLETADO** | Migración SQL generada y estructurada                |
+| ✅    | **COMPLETADO** | Archivo prompts-GG.md creado                         |
+| ✅    | **COMPLETADO** | ENUMs implementados para integridad de negocio       |
+| ✅    | **COMPLETADO** | Índices de optimización aplicados estratégicamente   |
+| ✅    | **COMPLETADO** | Relaciones bidireccionales correctas                 |
+| ✅    | **COMPLETADO** | Compatibilidad con datos existentes (no destructivo) |
+| ✅    | **COMPLETADO** | Rama db-GG creada correctamente                      |
+| ✅    | **COMPLETADO** | Commit realizado con mensaje descriptivo             |
+| ✅    | **COMPLETADO** | Push completado exitosamente                         |
 
 ---
 
